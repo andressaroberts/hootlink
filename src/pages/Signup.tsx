@@ -173,7 +173,7 @@ const Signup = () => {
                 className="w-full"
                 onClick={() => navigate("/login")}
               >
-                Configure Supabase First
+                Configure supabase first
               </Button>
             )}
           </form>
